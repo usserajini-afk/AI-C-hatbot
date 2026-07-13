@@ -145,4 +145,4 @@ We upgraded to **Gemini 2.5 Flash** using the official, modern `google-genai` Py
 
 ## 👩‍💻 Author
 
-**Poojitha** — K-Hub Batch 2026-27 Junior Developer Intern
+**RAJINI** — K-Hub Batch 2026-27 Junior Developer Intern
